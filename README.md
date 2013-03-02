@@ -1,4 +1,4 @@
-# Emmet — the essential toolkit for web-developers
+# Ammat is the AliMDalize of Emmet for One Developers
 
 Emmet (formerly *Zen Coding*) is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow.
 
